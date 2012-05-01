@@ -2,3 +2,7 @@
 .svn
 *~
 .*.swp
+*.iml
+*.ipr
+*.iws
+.idea/
